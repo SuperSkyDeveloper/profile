@@ -122,7 +122,7 @@
                     <div class="col-md-4">
                         <span class="fa-stack fa-4x">
                             <i class="fas fa-circle fa-stack-2x text-primary"></i>
-                            <i class="fas fa-shopping-cart fa-stack-1x fa-inverse"></i>
+                            <i class="fas fa-window-restore fa-stack-1x fa-inverse"></i>
                         </span>
                         <h4 class="my-3">Website Development</h4>
                     </div>
@@ -136,7 +136,7 @@
                     <div class="col-md-4">
                         <span class="fa-stack fa-4x">
                             <i class="fas fa-circle fa-stack-2x text-primary"></i>
-                            <i class="fas fa-lock fa-stack-1x fa-inverse"></i>
+                            <i class="fa fa-object-group fa-stack-1x fa-inverse"></i>
                         </span>
                         <h4 class="my-3">Content Management System</h4>
                     </div>
@@ -144,14 +144,14 @@
                     <div class="col-md-4">
                         <span class="fa-stack fa-4x">
                             <i class="fas fa-circle fa-stack-2x text-primary"></i>
-                            <i class="fas fa-lock fa-stack-1x fa-inverse"></i>
+                            <i class="fa fa-phone-square fa-stack-1x fa-inverse"></i>
                         </span>
                         <h4 class="my-3">Mobile Applications Development</h4>
                     </div>
                     <div class="col-md-4">
                         <span class="fa-stack fa-4x">
                             <i class="fas fa-circle fa-stack-2x text-primary"></i>
-                            <i class="fas fa-lock fa-stack-1x fa-inverse"></i>
+                            <i class="fas fa-server fa-stack-1x fa-inverse"></i>
                         </span>
                         <h4 class="my-3">API Development /  </br> Integration</h4>
                     </div>
