@@ -344,8 +344,10 @@
                     <div class="row align-items-stretch mb-5">
                         <div class="col-md-2"></div>
                         <div class="col-md-8">
-                            <h1><span style="color:white;">Phone number : </span>  <a href="tel:+86 186-4043-5683">+86 186-4043-5683</a></h1>
-                            <h1><span style="color:white;">Mail : </span> <a href="mailto:contrillworld@gmail.com">contrillworld@gmail.com</a>  </h1>
+<!--                             <h1><span style="color:white;">Phone number : </span>  <a href="tel:+86 186-4043-5683">+86 186-4043-5683</a></h1>
+                            <h1><span style="color:white;">Mail : </span> <a href="mailto:contrillworld@gmail.com">contrillworld@gmail.com</a>  </h1> -->
+                            <h1><span style="color:white;">Phone number : </span>  <a href="tel:+86 186-4043-5683">+86 176-2404-6001</a></h1>
+                            <h1><span style="color:white;">Mail : </span> <a href="mailto:contrillworld@gmail.com">jinzhexing26@gmail.com</a>  </h1>
                         </div>
                         <div class="col-md-2"></div>
                     </div>
